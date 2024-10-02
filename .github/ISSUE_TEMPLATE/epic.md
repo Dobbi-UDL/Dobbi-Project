@@ -1,18 +1,17 @@
 ---
 name: Epic
-about: 'Large goals that include multiple features or stories. Example: "User Account
-  Management" (this could include features like login, password reset, user profiles,
-  etc.)'
-title: 'Epic: [Title]'
+about: 'Large goals that include multiple features. Example: "User Account Management"
+  (this could include features like login, password reset, user profiles, etc.)'
+title: 'Epic: [Enter the Title Here]'
 labels: 'type: epic'
-assignees: mbuturuga
+assignees: ''
 
 ---
 
 ### Description
-Brief description of the Epic. What is the high-level goal this Epic will achieve. How does it contribute to the product?
+This Epic involves all the work related to [briefly describe the main goal of the epic].
 
 ### Features
-- [ ] #issue (Feature 1)
-- [ ] #issue (Feature 2)
-- [ ] #issue (Feature 3)
+*List of related features included in this epic.*
+- [ ] Feature 1 #issue
+- [ ] Feature 2 #issue
