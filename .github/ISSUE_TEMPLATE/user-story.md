@@ -3,7 +3,7 @@ name: User Story
 about: 'A small, specific requirement from the user’s perspective. Example: “Add Item
   to Cart”'
 title: 'User Story: [Enter Title Here]'
-labels: 'type: user story'
+labels: ''
 assignees: ''
 
 ---
@@ -32,3 +32,7 @@ so that [explain the benefit or reason].
 *These are other issues (user story level) that need to be completed before this one can be implemented.*
 - [ ] User Story 1 #issue
 - [ ] User Story 2 #issue
+
+### References
+*Related Feature, the one that contains this User Story. This creates a backlink between the issues.*
+- Related to Feature 1 #issue

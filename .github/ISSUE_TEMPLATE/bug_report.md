@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Bug: [Enter Title Here]'
-labels: 'type: bug, type: epic'
-assignees: mbuturuga
+labels: 'type: bug'
+assignees: ''
 
 ---
 

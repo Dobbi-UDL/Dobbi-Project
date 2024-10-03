@@ -3,7 +3,7 @@ name: Task
 about: 'Technical work required to complete a user story. Example: “Implement Add
   to Cart Button”'
 title: 'Task: [Enter Title Here]'
-labels: 'type: task'
+labels: ''
 assignees: ''
 
 ---
@@ -25,5 +25,5 @@ assignees: ''
 *Include any relevant technical information, such as API endpoints or technologies to be used.*
 
 ### References
-*Related user story, the one that contains this task.*
-- User Story 1 #issue
+*Related user story, the one that contains this task. This creates a backlink between the issues.*
+- Related to User Story 1 #issue

@@ -20,3 +20,7 @@ This feature covers everything related to [briefly describe the feature].
 *These are other features that need to be completed before this one can be implemented.*
 - [ ] Feature 1 #issue
 - [ ] Feature 2 #issue
+
+### References
+*Related Epic, the one that contains this Feature. This creates a backlink between the issues.*
+- Related to Epic 1 #issue
