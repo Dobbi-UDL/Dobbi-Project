@@ -3,7 +3,7 @@ name: Task
 about: 'Technical work required to complete a user story. Example: “Implement Add
   to Cart Button”'
 title: 'Task: [Enter Title Here]'
-labels: ''
+labels: 'type: task'
 assignees: ''
 
 ---

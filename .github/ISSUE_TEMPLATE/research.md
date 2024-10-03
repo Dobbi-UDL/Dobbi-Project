@@ -2,7 +2,7 @@
 name: Research
 about: Research task to explore or gather information for future development.
 title: 'Research: [Enter Title Here]'
-labels: ''
+labels: 'type: research'
 assignees: ''
 
 ---

@@ -3,7 +3,7 @@ name: User Story
 about: 'A small, specific requirement from the user’s perspective. Example: “Add Item
   to Cart”'
 title: 'User Story: [Enter Title Here]'
-labels: ''
+labels: 'type: user story'
 assignees: ''
 
 ---
