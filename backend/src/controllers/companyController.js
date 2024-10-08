@@ -38,9 +38,10 @@ exports.createCompany = async (req, res) => {
     const { name, email, password, status } = req.body;
     const { data, error } = await supabase
       .from('companies')
-      .insert([{ name, email, password, status }]);
+      .insert([{ name, email, password, status }])
+      .select();
     if (error) throw error;
-    res.status(200).json(data[0]);
+    res.status(201).json(data[0]);
   } catch (error) {
     res.status(600).json({ error: error.message });
   }
